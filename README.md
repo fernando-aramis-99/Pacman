@@ -1,2 +1,2 @@
-# web-projects-training
-Web projects to train and learn about front end development in javascript, react, and node.js
+# Pacman Game
+Developed to train and learn javascript.
